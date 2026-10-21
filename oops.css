@@ -1,0 +1,34 @@
+body {
+  bgcolor: lightgray;
+  font-family: serf;
+}
+
+h1 {
+  color: lightpurple;
+  font-align: center;
+  text decoration: underline;
+}
+
+.red {
+  color: red;
+}
+
+list {
+  font-size: 20px;
+}
+
+example {
+  text-align: center;
+}
+
+li {
+  font-size: 10% em;
+}
+
+p html {
+  color: 00ff00;
+}
+
+ul 
+  width: 100px;
+}
